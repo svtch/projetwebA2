@@ -1,0 +1,7 @@
+projet_web_a2:
+    resource: "@ProjetWebA2Bundle/Resources/config/routing.xml"
+    prefix:   /
+
+app:
+    resource: '@AppBundle/Controller/'
+    type: annotation
